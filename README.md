@@ -101,9 +101,9 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-🔖 License
+📄 License
 
-MIT License
-
+This project is licensed under the MIT License.
 Author: Alireza
-Purpose: Resume-building + research experience for multi-modal emotion detection
+Purpose: Resume-building and research experience for a multi-modal emotion detection system.
+
