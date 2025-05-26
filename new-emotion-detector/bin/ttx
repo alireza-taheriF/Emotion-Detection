@@ -1,4 +1,4 @@
-#!/Users/alireza/emotion_detector/new-emotion-detector/bin/python3.12
+#!/Users/alireza/emotion_detector/new-emotion-detector/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
