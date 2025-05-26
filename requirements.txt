@@ -1,0 +1,8 @@
+opencv-python
+deepface
+numpy
+matplotlib
+torch
+torchvision
+torchaudio
+pandas
