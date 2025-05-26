@@ -86,7 +86,7 @@ This will open your webcam and display real-time predictions over the video stre
 ## ⚙️ How to Run the Project
 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/emotion_detector.git
+git clone https://github.com/alireza-taheriF/emotion_detector.git
 cd emotion_detector
 ```
 
