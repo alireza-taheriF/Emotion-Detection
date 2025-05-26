@@ -5,9 +5,7 @@ A deep learning–based emotion recognition system trained on the **FER-2013** d
 ---
 
 ## 📁 Project Structure
-
-
-
+```
 emotion_detector/
 ├── assets
 │  └── emotion_log.csv
@@ -45,7 +43,7 @@ emotion_detector/
 │ 
 ├── README.md
 └── requirements.txt
-
+```
 
 ## 🧠 Model Info
 
